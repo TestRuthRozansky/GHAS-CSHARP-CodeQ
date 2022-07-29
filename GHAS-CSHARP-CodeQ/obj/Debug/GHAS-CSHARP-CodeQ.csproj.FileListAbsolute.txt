@@ -1,0 +1,7 @@
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\bin\Debug\GHAS-CSHARP-CodeQ.exe.config
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\bin\Debug\GHAS-CSHARP-CodeQ.exe
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\bin\Debug\GHAS-CSHARP-CodeQ.pdb
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\obj\Debug\GHAS-CSHARP-CodeQ.csprojAssemblyReference.cache
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\obj\Debug\GHAS-CSHARP-CodeQ.csproj.CoreCompileInputs.cache
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\obj\Debug\GHAS-CSHARP-CodeQ.exe
+C:\Users\e0067804\source\repos\GHAS-CSHARP-CodeQ\GHAS-CSHARP-CodeQ\obj\Debug\GHAS-CSHARP-CodeQ.pdb
